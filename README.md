@@ -15,7 +15,7 @@ installation:
 To install python, Pip, youtube-dl,Ffmpeg, and a premiere pro extension, watch my tutorial
 https://www.youtube.com/watch?v=nn1FNIv9S34
 
-to install the oymiere python lib
+to install the pymiere python lib
 open command line and enter
 'pip install pymiere'
 
@@ -32,5 +32,5 @@ download a current build of Autohotkey
 
 https://www.autohotkey.com/download/
 
-Download my scripts and change the filepaths to be local filepaths on your pc.
+Download my scripts and edit the filepaths in them to be local filepaths on your pc.
 
